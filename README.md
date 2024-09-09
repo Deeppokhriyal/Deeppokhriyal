@@ -1,4 +1,4 @@
-![logo](https://github.com/Deeppokhriyal/Deeppokhriyal/blob/main/deep%20logo.png)
+![logo](https://github.com/Deeppokhriyal/Deeppokhriyal/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Deepak Pokhriyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
